@@ -3,7 +3,7 @@ entries:
   rke2-canal:
   - apiVersion: v1
     appVersion: v3.13.3
-    created: "2021-01-22T21:35:45.401948409Z"
+    created: "2021-01-27T13:00:55.356082-08:00"
     description: Install Canal Network Plugin.
     digest: aa80e5c79c468162fdb76656feadddac0ed1ad1d1bdc4a3012bd4389fcddb6c8
     home: https://www.projectcalico.org/
@@ -21,7 +21,7 @@ entries:
   rke2-coredns:
   - apiVersion: v1
     appVersion: 1.7.1
-    created: "2021-01-08T18:12:00.296423364Z"
+    created: "2021-01-27T13:00:55.358691-08:00"
     description: CoreDNS is a DNS server that chains plugins and provides Kubernetes
       DNS Services
     digest: 335099356a98589e09f1bb940913b0ed6abb8d2c4db91720f87d1cf7697a5cf7
@@ -39,7 +39,7 @@ entries:
     version: 1.13.800
   - apiVersion: v1
     appVersion: 1.6.9
-    created: "2021-01-22T21:35:45.403680219Z"
+    created: "2021-01-27T13:00:55.357155-08:00"
     description: CoreDNS is a DNS server that chains plugins and provides Kubernetes
       DNS Services
     digest: be60a62ec184cf6ca7b0ed917e6962e8a2578fa1eeef6a835e82d2b7709933d5
@@ -67,7 +67,7 @@ entries:
   rke2-ingress-nginx:
   - apiVersion: v1
     appVersion: 0.30.0
-    created: "2021-01-08T18:12:00.29873777Z"
+    created: "2021-01-27T13:00:55.3649-08:00"
     description: An nginx Ingress controller that uses ConfigMap to store the nginx
       configuration.
     digest: a033934e70a3761d2ba5b55e782c4169088bf8f53f5bcf30eec5e237282261c2
@@ -90,7 +90,7 @@ entries:
   rke2-kube-proxy:
   - apiVersion: v1
     appVersion: v1.20.2
-    created: "2021-01-25T23:01:11.589999085Z"
+    created: "2021-01-27T13:00:55.377368-08:00"
     description: Install Kube Proxy.
     digest: 68f08c49c302bfe23e9c6f8074a21a6a3e0c90fdb16f5e6fb32a5a3ee3f7c717
     keywords:
@@ -106,7 +106,7 @@ entries:
     version: v1.20.2
   - apiVersion: v1
     appVersion: v1.19.7
-    created: "2021-01-22T21:35:45.405178128Z"
+    created: "2021-01-27T13:00:55.376638-08:00"
     description: Install Kube Proxy.
     digest: def9baa9bc5c12267d3575a03a2e5f2eccc907a6058202ed09a6cd39967790ca
     keywords:
@@ -122,7 +122,7 @@ entries:
     version: v1.19.7
   - apiVersion: v1
     appVersion: v1.19.5
-    created: "2020-12-17T19:20:49.383692056Z"
+    created: "2021-01-27T13:00:55.375374-08:00"
     description: Install Kube Proxy.
     digest: f74f820857b79601f3b8e498e701297d71f3b37bbf94dc3ae96dfcca50fb80df
     keywords:
@@ -138,7 +138,7 @@ entries:
     version: v1.19.5
   - apiVersion: v1
     appVersion: v1.18.15
-    created: "2021-01-14T18:05:30.822746229Z"
+    created: "2021-01-27T13:00:55.37178-08:00"
     description: Install Kube Proxy.
     digest: 3a6429d05a3d22e3959ceac27db15f922f1033553e8e6b5da2eb7cd18ed9309f
     keywords:
@@ -154,7 +154,7 @@ entries:
     version: v1.18.15
   - apiVersion: v1
     appVersion: v1.18.13
-    created: "2020-12-10T22:07:42.184767459Z"
+    created: "2021-01-27T13:00:55.370872-08:00"
     description: Install Kube Proxy.
     digest: 15d192f5016b8573d2c6f17ab55fa6f14fa1352fcdef2c391a6a477b199867ec
     keywords:
@@ -170,7 +170,7 @@ entries:
     version: v1.18.13
   - apiVersion: v1
     appVersion: v1.18.12
-    created: "2020-12-07T21:17:34.244857883Z"
+    created: "2021-01-27T13:00:55.368476-08:00"
     description: Install Kube Proxy.
     digest: e1da2b245da23aaa526cb94c04ed48cd3e730b848c0d33e420dcfd5b15374f5e
     keywords:
@@ -186,7 +186,7 @@ entries:
     version: v1.18.12
   - apiVersion: v1
     appVersion: v1.18.10
-    created: "2020-10-15T22:21:23.252729387Z"
+    created: "2021-01-27T13:00:55.367137-08:00"
     description: Install Kube Proxy.
     digest: 1ae84231365f19d82a4ea7c6b069ce90308147ba77bef072290ef7464ff1694e
     keywords:
@@ -202,7 +202,7 @@ entries:
     version: v1.18.10
   - apiVersion: v1
     appVersion: v1.18.9
-    created: "2020-10-14T23:04:28.48143194Z"
+    created: "2021-01-27T13:00:55.374507-08:00"
     description: Install Kube Proxy.
     digest: e1e5b6f98c535fa5d90469bd3f731d331bdaa3f9154157d7625b367a7023f399
     keywords:
@@ -218,7 +218,7 @@ entries:
     version: v1.18.9
   - apiVersion: v1
     appVersion: v1.18.8
-    created: "2020-09-29T00:14:59.633896455Z"
+    created: "2021-01-27T13:00:55.373594-08:00"
     description: Install Kube Proxy.
     digest: 7765237ddc39c416178242e7a6798d679a50f466ac18d3a412207606cd0d66ed
     keywords:
@@ -234,7 +234,7 @@ entries:
     version: v1.18.8
   - apiVersion: v1
     appVersion: v1.18.4
-    created: "2020-09-29T00:14:59.632610835Z"
+    created: "2021-01-27T13:00:55.372684-08:00"
     description: Install Kube Proxy.
     digest: b859363c5ecab8c46b53efa34d866b9c27840737ad1afec0eb9729b8968304fb
     keywords:
@@ -251,7 +251,7 @@ entries:
   rke2-metrics-server:
   - apiVersion: v1
     appVersion: 0.3.6
-    created: "2021-01-08T18:12:00.299468471Z"
+    created: "2021-01-27T13:00:55.378125-08:00"
     description: Metrics Server is a cluster-wide aggregator of resource usage data.
     digest: 8523a3954cd797e2e2094bde462e85cb86453a6349b8c09d1f7e19072caa5768
     home: https://github.com/kubernetes-incubator/metrics-server
@@ -268,4 +268,4 @@ entries:
     urls:
     - assets/rke2-metrics-server/rke2-metrics-server-2.11.100.tgz
     version: 2.11.100
-generated: "2021-01-25T23:01:11.588633174Z"
+generated: "2021-01-27T13:00:55.355123-08:00"
